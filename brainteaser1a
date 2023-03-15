@@ -1,0 +1,21 @@
+<p>A proffesor teaches six students.</p>
+<ul>Courses offered by the students:
+  <li>Maths</li>
+  <li>English</li>
+  <li>Physics</li>
+  <li>Chemistry</li>
+  <li>Geography</li>
+</ul>
+<ol>Scores of students:
+  <li><h1>student1</h1>:70%</li>
+  <li><h1>student2</h1>:70%</li>
+  <li><h1>student3</h1>:70%</li>
+  <li><h1>student4</h1>:70%</li>
+</ol>
+<ul>
+  <li><h2>Tayo</h2>:69%</li>
+  <li><h2>Bimbo</h2>:68%</li>
+</ul>
+
+
+
